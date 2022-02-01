@@ -47,4 +47,3 @@ function getProfile() {
   printf("interest_in_coding : correct //Boolean"
     }] // Array Of Object
   }
-}
